@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-11T21:16:11 IST" name="Default suite" finished-at="2022-11-11T21:16:20 IST" duration-ms="8651">
+    <groups>
+    </groups>
+    <test started-at="2022-11-11T21:16:11 IST" name="Default test" finished-at="2022-11-11T21:16:20 IST" duration-ms="8651">
+      <class name="TestCases.Test3CartPage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.Test3CartPage@6adbc9d]" started-at="2022-11-11T21:16:11 IST" name="setup" finished-at="2022-11-11T21:16:18 IST" duration-ms="6895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickmenubtntest()[pri:0, instance:TestCases.Test3CartPage@6adbc9d]" started-at="2022-11-11T21:16:18 IST" name="clickmenubtntest" finished-at="2022-11-11T21:16:20 IST" duration-ms="1350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickmenubtntest -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCases.Test3CartPage@6adbc9d]" started-at="2022-11-11T21:16:20 IST" name="close" finished-at="2022-11-11T21:16:20 IST" duration-ms="335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCases.Test3CartPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
